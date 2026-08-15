@@ -1,0 +1,8 @@
+# MRE Hand project dependencies
+# Add required packages below, one per line.
+
+nidaqmx
+pyqtgraph
+pyqt5
+pyserial
+PyOpenGL

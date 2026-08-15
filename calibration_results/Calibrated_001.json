@@ -1,0 +1,24 @@
+{
+  "parameters": {
+    "sensor_0_gain": 0.3443228010635875,
+    "sensor_1_gain": 0.34907025393682356,
+    "sensor_2_gain": 0.27195740503657223,
+    "sensor_0_bias": -0.2734198964595123,
+    "sensor_1_bias": -0.2734198964595123,
+    "sensor_2_bias": -0.2734198964595123,
+    "angle_1_bias": 0.0,
+    "angle_2_bias": 0.0,
+    "sensor_0_moment_gain": 0.9362808701963891,
+    "sensor_1_moment_gain": 0.9362808701963891,
+    "sensor_2_moment_gain": 0.9362808701963891
+  },
+  "sensor_0_gain": 0.3443228010635875,
+  "sensor_1_gain": 0.34907025393682356,
+  "sensor_2_gain": 0.27195740503657223,
+  "sensor_bias": -0.2734198964595123,
+  "shared_moment_gain": 0.9362808701963891,
+  "axial_residual_std": 0.007744751428230476,
+  "gimbal_residual_std": 0.217328242493199,
+  "n_axial_samples": 1200,
+  "n_gimbal_samples": 400
+}
