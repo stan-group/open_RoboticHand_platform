@@ -10,7 +10,7 @@ At its core is a calibrated force measurement setup that ensures reliable ground
 
 ### System Architecture
 
-![System Photo](https://drive.google.com/uc?export=view&id=1EpLTuckmvS2cJaLObt4CyFRsf9w1Ule9)
+![System Photo](img/system_photo.png)
 
 The calibrated system provides an independent reference measurement of the contact force vector for evaluating the tactile sensor embedded in the robotic fingertip. It enables separate assessment of the sensor response to normal loading and tangential shear loading during controlled contact interactions.
 
@@ -26,7 +26,7 @@ The system uses a joystick-style mechanism with:
 - Shear forces create asymmetric load distribution
 - Known geometry and angular arrangement allow force component reconstruction
 
-![Calibration Setup](https://drive.google.com/uc?export=view&id=14RVzWVDfllKBX36_CryQzyiKHBNOu5_x)
+![Calibration Setup](img/calibration_setup.png)
 
 ## Calibration
 
