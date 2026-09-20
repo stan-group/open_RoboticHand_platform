@@ -1,6 +1,6 @@
-# Open Robotic Hand Platform
+# Standardizing Tactile Sensing Across Diverse Material System
 
-A tactile hand system designed to bridge the gap between raw touch sensing and precise force understanding, with calibrated force measurement for accurate tactile-to-force mapping.
+An open tactile hand system designed to bridge the gap between raw touch sensing and precise force understanding, with calibrated force measurement for accurate tactile-to-force mapping.
 
 ## Overview
 
